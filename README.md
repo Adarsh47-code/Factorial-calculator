@@ -8,7 +8,7 @@ This factorial calculator was built using JavaScript and will run on node.
 4.  Rewards the user with a badge based on input size.
 
 ## How to run this.
-Clone this Repo and paste it on your VS code and turn on terminal as node. Or maybe run in a browser console if you are comfortable with it.
+Clone this Repo and paste it on your VS code and run in the terminal as node. Or maybe run in a browser console if you are comfortable with it.
 
 ## Tech Stack- Node.js
 - JavaScript
