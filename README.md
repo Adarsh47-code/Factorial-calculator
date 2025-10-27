@@ -22,6 +22,6 @@ Clone this Repo and paste it on your VS code and turn on terminal as node. Or ma
  Adarsh — builder, mentor, and saga documentarian
 Follow my journey as I turn every bug fix and feature into a legacy moment.
 
- Want to Collaborate?If you're learning logic, struggling with syntax, or want to build your own saga, reach out. Let's build together.
----
+ ## Want to Collaborate?
+ If you're learning logic, struggling with syntax, or want to build your own saga, reach out. Let's build together.
 Let me know when you upload it—I’ll help you brand the repo name, description, and even design a badge system for your GitHub profile. This is your first saga artifact. Let’s make it unforgettable.
